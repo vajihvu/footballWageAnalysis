@@ -1,0 +1,996 @@
+,position,name,matches,Age,goals,assists,weekly_wages,annual_wages
+2,Left-Back,P. Estupiñán,6,27,-,1,90000,4680000
+3,Centre-Back,K. De Winter,6,23,-,-,60000,3120000
+4,Centre-Back,F. Tomori,10,27,-,1,86000,4472000
+5,Centre-Back,S. Pavlović,11,24,1,1,60000,3120000
+6,Centre-Back,M. Gabbia,10,26,-,-,64000,3328000
+7,Right-Back,Z. Athekame,6,20,1,-,35000,1820000
+8,Centre-Back,D. Odogu,1,19,-,-,18000,936000
+9,Left-Back,D. Bartesaghi,6,19,-,1,22000,1144000
+10,Defensive Midfield,A. Jashari,2,23,-,-,90000,4680000
+11,Defensive Midfield,Y. Fofana,11,26,1,2,106000,5512000
+12,Defensive Midfield,S. Ricci,8,24,1,1,90000,4680000
+13,Central Midfield,A. Rabiot,5,30,-,1,180000,9360000
+14,Right Midfield,A. Saelemaekers,11,26,1,2,25000,1300000
+15,Central Midfield,R. Loftus-Cheek,9,29,1,-,100000,5200000
+16,Central Midfield,L. Modrić,10,40,1,2,125000,6500000
+17,Left Winger,R. Leão,6,26,4,-,125000,6500000
+18,Right Winger,C. Pulisic,8,27,6,2,100000,5200000
+19,Centre-Forward,C. Nkunku,6,27,1,-,180000,9360000
+20,Centre-Forward,S. Gimenez,11,24,1,2,90000,4680000
+23,Centre-Back,W. Saliba,11,24,-,1,250000,13000000
+24,Centre-Back,G. Magalhães,13,27,2,2,150000,7800000
+25,Right-Back,J. Timber,12,24,2,2,90000,4680000
+26,Centre-Back,P. Hincapié,2,23,-,-,65000,3380000
+27,Left-Back,M. Lewis-Skelly,9,19,-,2,45000,2340000
+28,Left-Back,R. Calafiori,10,23,1,2,120000,6240000
+29,Right-Back,Ben White,4,28,-,-,150000,7800000
+30,Centre-Back,C. Mosquera,10,21,-,-,55000,2860000
+31,Central Midfield,D. Rice,13,26,1,4,240000,12480000
+32,Attacking Midfield,M. Ødegaard,7,26,-,2,240000,12480000
+33,Defensive Midfield,M. Zubimendi,12,26,2,-,75000,3900000
+34,Attacking Midfield,E. Eze,11,27,2,3,180000,9360000
+35,Attacking Midfield,E. Nwaneri,6,18,-,-,80000,4160000
+36,Central Midfield,M. Merino,12,29,1,-,130000,6760000
+37,Defensive Midfield,C. Nørgaard,4,31,-,-,65000,3380000
+38,Right Winger,B. Saka,10,24,3,-,195000,10140000
+39,Centre-Forward,V. Gyökeres,13,27,5,-,200000,10400000
+40,Centre-Forward,K. Havertz,1,26,-,-,280000,14560000
+41,Right Winger,N. Madueke,6,23,-,-,150000,7800000
+42,Left Winger,G. Martinelli,12,24,4,1,180000,9360000
+44,Left Winger,L. Trossard,10,30,3,2,90000,4680000
+45,Right Winger,M. Dowman,3,15,-,1,35000,1820000
+48,Centre-Back,E. Konsa,11,28,-,-,75000,3900000
+49,Centre-Back,P. Torres,10,28,-,-,100000,5200000
+50,Right-Back,M. Cash,13,28,2,-,100000,5200000
+51,Left-Back,I. Maatsen,10,23,-,-,100000,5200000
+52,Left-Back,L. Digne,11,32,-,2,135000,7020000
+53,Centre-Back,V. Lindelöf,5,31,-,-,120000,6240000
+54,Centre-Back,T. Mings,7,32,-,-,110000,5720000
+55,Attacking Midfield,M. Rogers,13,23,1,2,75000,3900000
+56,Defensive Midfield,A. Onana,6,24,-,-,140000,7280000
+57,Defensive Midfield,B. Kamara,11,25,-,3,150000,7800000
+58,Central Midfield,Y. Tielemans,4,28,-,-,150000,7800000
+59,Attacking Midfield,H. Elliott,5,22,1,-,65000,3380000
+60,Central Midfield,J. McGinn,13,31,3,1,120000,6240000
+61,Attacking Midfield,E. Buendía,12,28,3,2,75000,3900000
+62,Defensive Midfield,L. Bogarde,9,21,-,-,35000,1820000
+63,Central Midfield,R. Barkley,3,31,-,-,60000,3120000
+64,Centre-Forward,O. Watkins,13,29,1,-,130000,6760000
+65,Right Winger,E. Guessand,12,24,1,-,75000,3900000
+66,Right Winger,D. Malen,13,26,2,-,140000,7280000
+67,Left Winger,J. Sancho,5,25,-,-,200000,10400000
+69,Centre-Back,G. Scalvini,5,21,1,-,54000,2808000
+70,Centre-Back,Isak Hien,10,26,-,-,33000,1716000
+71,Centre-Back,O. Kossounou,8,24,-,-,35000,1820000
+72,Left-Back,H. Ahanor,7,17,-,-,18000,936000
+73,Centre-Back,B. Djimsiti,11,32,-,-,28000,1456000
+74,Central Midfield,Éderson,7,26,-,-,50000,2600000
+75,Attacking Midfield,C. De Ketelaere,9,24,2,-,61000,3172000
+76,Right Midfield,R. Bellanova,10,25,-,-,65000,3380000
+77,Central Midfield,Y. Musah,7,22,-,1,50000,2600000
+78,Attacking Midfield,L. Samardžić,10,23,2,1,37000,1924000
+79,Left Midfield,N. Zalewski,6,23,1,1,57000,2964000
+80,Central Midfield,M. Pasalić,11,30,2,3,71000,3692000
+81,Attacking Midfield,D. Maldini,7,24,-,-,40000,2080000
+82,Central Midfield,M. Brescianini,8,25,1,-,35000,1820000
+83,Defensive Midfield,M. de Roon,11,34,-,-,35000,1820000
+84,Right Midfield,D. Zappacosta,8,33,-,1,35000,1820000
+85,Second Striker,A. Lookman,7,28,1,-,45000,2340000
+86,Centre-Forward,G. Scamacca,4,26,1,-,115000,5980000
+87,Centre-Forward,N. Krstović,11,25,2,3,42000,2184000
+88,Left Winger,K. Sulemana,10,23,2,1,57000,2964000
+90,Centre-Back,R. Le Normand,13,28,2,-,120000,6240000
+91,Centre-Back,D. Hancko,11,27,-,1,130000,6760000
+92,Right-Back,M. Llorente,13,30,2,2,160000,8320000
+93,Right-Back,N. Molina,8,27,-,-,72000,3744000
+94,Left-Back,M. Ruggeri,8,23,-,-,40000,2080000
+95,Right-Back,M. Pubill,3,22,-,-,23000,1196000
+96,Centre-Back,J. Giménez,3,30,-,-,120000,6240000
+97,Centre-Back,C. Lenglet,7,30,-,-,140000,7280000
+98,Left-Back,J. Galán,6,30,-,-,60000,3120000
+99,Central Midfield,P. Barrios,13,22,1,-,120000,6240000
+100,Central Midfield,C. Gallagher,13,25,1,-,175000,9100000
+101,Central Midfield,Johnny Cardoso,3,24,-,-,80000,4160000
+102,Central Midfield,Koke,12,33,-,2,130000,6760000
+103,Centre-Forward,J. Alvarez,12,25,7,4,240000,12480000
+104,Left Winger,Á. Baena,7,24,1,1,160000,8320000
+105,Right Winger,G. Simeone,13,22,3,3,60000,3120000
+106,Centre-Forward,A. Sørloth,11,29,2,-,140000,7280000
+107,Left Winger,T. Almada,6,24,1,-,100000,5200000
+108,Second Striker,G. Raspadori,8,25,1,1,120000,6240000
+109,Left Winger,N. González,10,27,1,-,145000,7540000
+110,Second Striker,A. Griezmann,13,34,2,-,180000,9360000
+111,Left Winger,C. Martín,1,23,-,-,16000,832000
+114,Centre-Back,P. Cubarsí,10,18,-,-,75000,3900000
+115,Right-Back,J. Koundé,13,26,1,1,300000,15600000
+116,Left-Back,A. Balde,8,22,-,1,32000,1664000
+117,Centre-Back,R. Araujo,10,26,2,-,240000,12480000
+118,Centre-Back,E. García,13,24,1,-,115000,5980000
+119,Centre-Back,A. Christensen,9,29,-,-,173000,8996000
+120,Left-Back,G. Martín,11,23,-,-,30000,1560000
+121,Central Midfield,Pedri,13,22,2,2,250000,13000000
+122,Attacking Midfield,F. López,8,22,6,-,77000,4004000
+123,Attacking Midfield,Dani Olmo,10,27,1,2,250000,13000000
+124,Central Midfield,F. de Jong,11,28,-,2,365000,18980000
+125,Central Midfield,Gavi,2,21,-,1,180000,9360000
+126,Defensive Midfield,M. Casadó,10,22,-,1,25000,1300000
+127,Defensive Midfield,M. Bernal,4,18,-,1,25000,1300000
+128,Right Winger,Lamine Yamal,8,18,3,5,320000,16640000
+129,Left Winger,Raphinha,7,28,3,2,320000,16640000
+130,Centre-Forward,F. Torres,11,25,5,1,192000,9984000
+131,Left Winger,M. Rashford,13,27,5,7,270000,14040000
+132,Centre-Forward,R. Lewandowski,9,37,4,-,400000,20800000
+133,Right Winger,R. Bardghji,7,19,-,1,20000,1040000
+136,Centre-Back,D. Upamecano,12,27,-,-,192000,9984000
+137,Centre-Back,M. Kim,9,28,-,1,230000,11960000
+138,Right-Back,J. Stanisic,7,25,-,1,126000,6552000
+139,Centre-Back,J. Tah,12,29,1,1,230000,11960000
+140,Right-Back,K. Laimer,13,28,1,5,173000,8996000
+141,Right-Back,S. Boey,12,25,-,1,90000,4680000
+142,Left-Back,R. Guerreiro,9,31,2,2,150000,7800000
+143,Defensive Midfield,A. Pavlovic,10,21,1,-,110000,5720000
+144,Defensive Midfield,J. Kimmich,13,30,1,2,385000,20020000
+145,Central Midfield,T. Bischof,10,20,-,1,55000,2860000
+146,Central Midfield,L. Goretzka,11,30,-,-,250000,13000000
+147,Attacking Midfield,L. Karl,10,17,2,1,15000,780000
+148,Right Winger,M. Olise,13,23,6,7,260000,13520000
+149,Centre-Forward,H. Kane,13,32,20,3,480000,24960000
+150,Left Winger,Luis Díaz,13,28,7,4,270000,14040000
+151,Centre-Forward,N. Jackson,9,24,2,1,145000,7540000
+152,Left Winger,S. Gnabry,11,30,3,4,365000,18980000
+153,Left Winger,W. Mike,2,17,-,-,5000,260000
+156,Centre-Back,Natan,12,24,-,1,60000,3120000
+157,Centre-Back,V. Gómez,10,22,-,-,25000,1300000
+158,Left-Back,J. Firpo,8,29,-,1,72000,3744000
+159,Centre-Back,D. Llorente,1,32,-,-,60000,3120000
+160,Right-Back,Á. Ortiz,4,21,-,-,12000,624000
+161,Right-Back,H. Bellerín,10,30,-,1,60000,3120000
+162,Left-Back,R. Rodríguez,9,33,-,1,48000,2496000
+163,Centre-Back,M. Bartra,7,34,1,-,48000,2496000
+164,Central Midfield,S. Altimira,10,24,-,1,40000,2080000
+165,Attacking Midfield,G. Lo Celso,12,29,2,2,100000,5200000
+166,Defensive Midfield,S. Amrabat,7,29,-,-,120000,6240000
+167,Central Midfield,N. Deossa,4,25,-,-,45000,2340000
+168,Central Midfield,P. Fornals,13,29,2,4,60000,3120000
+169,Defensive Midfield,Marc Roca,7,28,-,1,48000,2496000
+170,Right Winger,Antony,8,25,3,1,120000,6240000
+171,Centre-Forward,C. Hernández,12,26,4,1,80000,4160000
+172,Left Winger,A. Ezzalzouli,9,23,2,1,28000,1456000
+173,Left Winger,R. Riquelme,11,25,-,1,60000,3120000
+174,Right Winger,P. García,7,19,-,-,16000,832000
+175,Right Winger,A. Ruibal,9,29,1,-,32000,1664000
+176,Centre-Forward,C. Ávila,5,31,-,-,40000,2080000
+177,Centre-Forward,C. Bakambu,10,34,2,-,52000,2704000
+179,Centre-Back,D. Vivian,11,26,-,-,70000,3640000
+180,Centre-Back,A. Paredes,10,25,1,-,40000,2080000
+181,Right-Back,J. Areso,11,26,-,1,40000,2080000
+182,Centre-Back,A. Laporte,8,31,-,-,200000,10400000
+183,Right-Back,A. Gorosabel,6,29,-,-,30000,1560000
+184,Left-Back,A. Boiro,2,23,-,-,8000,416000
+185,Right-Back,I. Lekue,4,32,-,-,20000,1040000
+186,Left-Back,Y. Berchiche,12,35,-,1,83000,4316000
+187,Attacking Midfield,O. Sancet,10,25,1,-,80000,4160000
+188,Central Midfield,M. Jauregizar,13,21,1,2,40000,2080000
+189,Central Midfield,B. Prados,2,24,-,-,28000,1456000
+190,Attacking Midfield,U. Gómez,7,22,-,-,7000,364000
+191,Central Midfield,I. Ruiz de Galarreta,11,32,-,-,30000,1560000
+192,Defensive Midfield,M. Vesga,10,32,-,-,40000,2080000
+193,Left Winger,N. Williams,7,23,1,2,320000,16640000
+194,Right Winger,I. Williams,12,31,1,-,220000,11440000
+195,Centre-Forward,M. Sannadi,9,24,1,-,16000,832000
+196,Left Winger,Á. Berenguer,10,30,-,1,60000,3120000
+197,Centre-Forward,G. Guruzeta,11,29,3,-,40000,2080000
+198,Right Winger,R. Navarro,12,23,2,-,20000,1040000
+199,Centre-Forward,Urko Izeta,3,26,-,-,8000,416000
+200,Left Winger,N. Serrano,5,22,-,-,6000,312000
+202,Centre-Back,B. Diakité,8,24,-,-,70000,3640000
+203,Centre-Back,M. Senesi,10,28,-,2,50000,2600000
+204,Left-Back,A. Truffert,9,23,-,1,35000,1820000
+205,Right-Back,Á. Jiménez,6,20,-,-,18000,936000
+206,Centre-Back,V. Milosavljevic,3,18,-,-,25000,1300000
+207,Right-Back,J. Araujo,1,24,-,-,25000,1300000
+208,Left-Back,J. Soler,2,20,-,-,20000,1040000
+209,Centre-Back,J. Hill,8,23,-,-,25000,1300000
+210,Right-Back,A. Smith,3,34,-,-,40000,2080000
+211,Attacking Midfield,J. Kluivert,9,26,1,-,80000,4160000
+212,Central Midfield,A. Scott,10,22,1,-,40000,2080000
+213,Defensive Midfield,T. Adams,10,26,-,1,60000,3120000
+214,Left Midfield,M. Tavernier,9,26,2,1,65000,3380000
+215,Central Midfield,L. Cook,3,28,-,-,60000,3120000
+216,Central Midfield,R. Christie,8,30,1,-,70000,3640000
+217,Defensive Midfield,B. Winterburn,1,21,-,-,2000,104000
+218,Right Winger,A. Semenyo,10,25,6,3,75000,3900000
+219,Centre-Forward,Evanilson,8,26,1,1,85000,4420000
+220,Left Winger,A. Adli,8,25,-,-,60000,3120000
+221,Right Winger,B. Gannon-Doak,4,19,-,1,30000,1560000
+222,Centre-Forward,E. Kroupi,7,19,4,-,20000,1040000
+223,Right Winger,D. Brooks,9,28,-,1,50000,2600000
+224,Centre-Forward,Enes Ünal,1,28,-,-,15000,780000
+227,Centre-Back,N. Collins,12,24,1,-,30000,1560000
+228,Centre-Back,S. van den Berg,12,23,-,-,20000,1040000
+229,Right-Back,M. Kayode,12,21,-,-,40000,2080000
+230,Centre-Back,K. Ajer,8,27,-,2,40000,2080000
+231,Right-Back,A. Hickey,7,23,1,-,70000,3640000
+232,Left-Back,R. Henry,10,28,-,-,35000,1820000
+233,Centre-Back,E. Pinnock,4,32,-,-,30000,1560000
+234,Centre-Back,B. Arthur,2,20,-,-,8000,416000
+235,Attacking Midfield,M. Damsgaard,8,25,1,1,75000,3900000
+236,Left Midfield,K. Lewis-Potter,9,24,1,2,50000,2600000
+237,Attacking Midfield,A. Milambo,3,20,-,-,30000,1560000
+238,Central Midfield,Y. Yarmolyuk,11,21,-,1,25000,1300000
+239,Defensive Midfield,V. Janelt,7,27,-,-,30000,1560000
+240,Central Midfield,M. Jensen,9,29,3,1,50000,2600000
+241,Attacking Midfield,F. Carvalho,8,23,3,1,40000,2080000
+242,Central Midfield,F. Onyeka,9,27,-,2,40000,2080000
+243,Defensive Midfield,J. Henderson,9,35,-,2,75000,3900000
+244,Left Winger,D. Ouattara,11,23,2,1,65000,3380000
+245,Left Winger,K. Schade,11,23,2,1,10000,520000
+246,Centre-Forward,I. Thiago,10,24,7,-,50000,2600000
+247,Left Winger,R. Nelson,2,25,1,1,70000,3640000
+248,Right Winger,R. Donovan,1,18,-,-,15000,780000
+251,Centre-Back,J. van Hecke,10,25,1,-,50000,2600000
+252,Left-Back,F. Kadıoğlu,10,26,-,-,87500,4550000
+253,Centre-Back,O. Boscagli,2,27,1,-,60000,3120000
+254,Left-Back,M. De Cuyper,8,24,1,-,55000,2860000
+255,Centre-Back,D. Coppola,5,21,-,2,25000,1300000
+256,Centre-Back,L. Dunk,9,33,-,-,80000,4160000
+257,Right-Back,J. Veltman,6,33,-,1,50000,2600000
+258,Defensive Midfield,C. Baleba,11,21,-,-,12500,650000
+259,Central Midfield,Y. Ayari,10,22,2,-,8000,416000
+260,Defensive Midfield,M. Wieffer,7,25,-,1,60000,3120000
+261,Defensive Midfield,J. Hinshelwood,4,20,-,-,25000,1300000
+262,Central Midfield,D. Gómez,10,22,5,-,25000,1300000
+263,Central Midfield,J. Milner,9,39,1,1,60000,3120000
+264,Right Winger,Y. Minteh,9,21,1,2,40000,2080000
+265,Left Winger,K. Mitoma,6,28,1,1,80000,4160000
+266,Centre-Forward,G. Rutter,8,23,-,3,75000,3900000
+267,Right Winger,B. Gruda,8,21,2,2,50000,2600000
+268,Centre-Forward,C. Kostoulas,4,18,1,-,40000,2080000
+269,Centre-Forward,S. Tzimas,7,19,2,2,20000,1040000
+270,Left Winger,T. Watson,3,19,1,3,20000,1040000
+271,Centre-Forward,D. Welbeck,10,34,5,1,60000,3120000
+274,Centre-Back,M. Estève,9,23,-,-,50000,2600000
+275,Left-Back,Q. Hartman,9,23,4,-,45000,2340000
+276,Centre-Back,B. Humphreys,3,22,-,-,40000,2080000
+277,Centre-Back,J. Worrall,6,28,-,-,40000,2080000
+278,Centre-Back,A. Tuanzebe,5,27,-,-,45000,2340000
+279,Left-Back,Lucas Pires,2,24,-,-,20000,1040000
+280,Centre-Back,H. Ekdal,7,27,-,-,25000,1300000
+281,Right-Back,O. Sonne,5,24,-,1,10000,520000
+282,Right-Back,K. Walker,9,35,1,-,75000,3900000
+283,Defensive Midfield,L. Ugochukwu,9,21,-,2,55000,2860000
+284,Defensive Midfield,Florentino,6,26,1,-,40000,2080000
+285,Attacking Midfield,Hannibal,9,22,1,-,1000,52000
+286,Central Midfield,J. Cullen,9,29,1,1,55000,2860000
+287,Attacking Midfield,M. Tresor,2,26,1,-,30000,1560000
+288,Central Midfield,J. Laurent,10,30,-,-,20000,1040000
+289,Right Winger,L. Tchaouna,9,22,-,1,45000,2340000
+290,Left Winger,J. Anthony,9,25,1,4,45000,2340000
+291,Centre-Forward,A. Broja,5,24,1,-,45000,2340000
+292,Right Winger,M. Edwards,3,26,1,-,50000,2600000
+293,Centre-Forward,L. Foster,8,25,1,2,1000,52000
+294,Centre-Forward,Z. Flemming,8,27,-,3,20000,1040000
+295,Left Winger,J. Bruun Larsen,7,27,1,-,45000,2340000
+296,Left Winger,J. Banel,2,21,-,-,10000,520000
+297,Centre-Forward,A. Barnes,3,35,-,-,25000,1300000
+300,Left-Back,M. Cucurella,12,27,-,2,175000,9100000
+301,Left-Back,J. Hato,6,19,-,-,120000,6240000
+302,Right-Back,R. James,11,25,1,2,250000,13000000
+303,Right-Back,M. Gusto,10,22,-,2,45000,2340000
+304,Centre-Back,T. Chalobah,12,26,2,-,50000,2600000
+305,Centre-Back,W. Fofana,5,24,-,1,200000,10400000
+306,Centre-Back,T. Adarabioyo,8,28,-,-,120000,6240000
+307,Centre-Back,B. Badiashile,3,24,-,-,90000,4680000
+308,Centre-Back,J. Acheampong,7,19,1,-,5000,260000
+309,Attacking Midfield,C. Palmer,4,23,2,-,130000,6760000
+310,Defensive Midfield,M. Caicedo,12,23,4,-,150000,7800000
+311,Central Midfield,E. Fernández,12,24,4,1,180000,9360000
+312,Central Midfield,A. Santos,10,21,-,1,35000,1820000
+313,Defensive Midfield,R. Lavia,4,21,-,-,45000,2340000
+314,Attacking Midfield,F. Buonanotte,4,20,1,-,25000,1300000
+315,Centre-Forward,João Pedro,11,24,2,3,125000,6500000
+316,Right Winger,Estêvão,12,18,2,1,60000,3120000
+317,Right Winger,P. Neto,12,25,2,2,160000,8320000
+318,Left Winger,J. Gittens,10,21,-,1,108000,5616000
+319,Left Winger,A. Garnacho,7,21,1,-,110000,5720000
+320,Centre-Forward,L. Delap,3,22,-,-,100000,5200000
+321,Left Winger,T. George,7,19,2,1,7500,390000
+322,Centre-Forward,Marc Guiu,4,19,1,-,50000,2600000
+325,Centre-Back,M. Guéhi,15,25,1,2,50000,2600000
+326,Centre-Back,M. Lacroix,15,25,-,1,50000,2600000
+327,Right-Back,D. Muñoz,15,29,2,2,60000,3120000
+328,Left-Back,T. Mitchell,12,26,1,-,40000,2080000
+329,Centre-Back,C. Richards,13,25,1,-,55000,2860000
+330,Centre-Back,J. Canvot,2,19,-,-,25000,1300000
+331,Left-Back,B. Sosa,6,27,-,-,35000,1820000
+332,Right-Back,N. Clyne,1,34,-,-,50000,2600000
+333,Left-Back,R. Cardines,1,19,-,-,5000,260000
+334,Defensive Midfield,A. Wharton,13,21,-,1,35000,1820000
+335,Attacking Midfield,D. Kamada,12,29,-,1,105000,5460000
+336,Defensive Midfield,J. Lerma,14,31,-,-,70000,3640000
+337,Attacking Midfield,J. Devenny,12,22,-,-,20000,1040000
+338,Central Midfield,W. Hughes,12,30,-,1,60000,3120000
+339,Centre-Forward,J. Mateta,15,28,7,-,50000,2600000
+340,Right Winger,I. Sarr,12,27,4,2,70000,3640000
+341,Right Winger,Y. Pino,10,23,-,2,60000,3120000
+342,Centre-Forward,E. Nketiah,7,26,2,-,90000,4680000
+343,Right Winger,R. Esse,3,20,-,-,15000,780000
+345,Centre-Back,N. Schlotterbeck,8,25,-,-,90000,4680000
+346,Right-Back,J. Ryerson,11,27,-,4,96000,4992000
+347,Centre-Back,W. Anton,13,29,1,-,100000,5200000
+348,Centre-Back,N. Süle,3,30,-,-,192000,9984000
+349,Centre-Back,A. Anselmino,3,20,-,-,40000,2080000
+350,Centre-Back,R. Bensebaini,12,30,2,1,87000,4524000
+351,Centre-Back,F. Mane,3,20,-,-,7000,364000
+352,Central Midfield,F. Nmecha,13,25,4,1,115000,5980000
+353,Central Midfield,J. Bellingham,13,20,-,2,135000,7020000
+354,Attacking Midfield,J. Brandt,12,29,4,2,90000,4680000
+355,Left Midfield,D. Svensson,13,23,2,-,47000,2444000
+356,Right Midfield,Yan Couto,8,23,2,1,91000,4732000
+357,Central Midfield,C. Chukwuemeka,8,22,1,1,1150000,59800000
+358,Central Midfield,M. Sabitzer,12,31,-,3,145000,7540000
+359,Central Midfield,P. Groß,9,34,-,1,108000,5616000
+360,Defensive Midfield,S. Özcan,4,27,-,-,72500,3770000
+361,Right Winger,K. Adeyemi,11,23,3,3,96000,4992000
+362,Centre-Forward,S. Guirassy,12,29,6,4,181000,9412000
+363,Centre-Forward,M. Beier,12,23,2,2,80000,4160000
+364,Centre-Forward,F. Silva,7,23,1,1,80000,4160000
+365,Right Winger,C. Campbell,1,19,-,-,9000,468000
+368,Left-Back,V. Mykolenko,8,26,-,-,58000,3016000
+369,Right-Back,J. O'Brien,11,24,-,-,35000,1820000
+370,Centre-Back,J. Tarkowski,11,32,-,-,120000,6240000
+371,Centre-Back,M. Keane,11,32,1,-,80000,4160000
+372,Right-Back,S. Coleman,4,37,-,-,55000,2860000
+373,Central Midfield,K. Dewsbury-Hall,9,27,1,1,90000,4680000
+374,Defensive Midfield,J. Garner,11,24,1,1,30000,1560000
+375,Attacking Midfield,M. Röhl,3,23,-,-,15500,806000
+376,Central Midfield,C. Alcaraz,9,22,1,-,20000,1040000
+377,Central Midfield,T. Iroegbunam,8,22,-,1,20000,1040000
+378,Defensive Midfield,I. Gueye,9,36,1,-,120000,6240000
+379,Right Winger,I. Ndiaye,11,25,3,1,45000,2340000
+380,Right Winger,T. Dibling,6,19,-,-,40000,2080000
+381,Centre-Forward,T. Barry,11,23,-,-,45000,2340000
+382,Left Winger,J. Grealish,10,30,1,4,225000,11700000
+383,Left Winger,D. McNeil,4,25,-,-,25000,1300000
+384,Centre-Forward,Beto,11,27,2,-,60000,3120000
+386,Centre-Back,P. Comuzzo,8,20,-,-,36000,1872000
+387,Right-Back,Dodô,12,26,1,-,37000,1924000
+388,Centre-Back,L. Ranieri,11,26,2,-,43000,2236000
+389,Right-Back,T. Lamptey,2,25,-,-,45000,2340000
+390,Centre-Back,M. Pongracic,11,28,-,-,51000,2652000
+391,Left-Back,N. Fortini,5,19,-,1,3000,156000
+392,Left-Back,R. Gosens,11,31,2,2,71000,3692000
+393,Left-Back,F. Parisi,6,24,-,-,60000,3120000
+394,Centre-Back,M. Viti,6,23,-,-,35000,1820000
+395,Centre-Back,P. Marí,8,32,-,-,40000,2080000
+396,Centre-Back,E. Kouadio,2,19,-,1,2000,104000
+397,Central Midfield,N. Fagioli,10,24,-,-,65000,3380000
+398,Defensive Midfield,R. Mandragora,11,28,2,-,57000,2964000
+399,Central Midfield,S. Sohm,9,24,-,-,32000,1664000
+400,Central Midfield,J. Fazzini,10,22,-,-,43000,2236000
+401,Central Midfield,H. Nicolussi Caviglia,7,25,-,1,33000,1716000
+402,Central Midfield,C. Ndour,8,21,2,2,22000,1144000
+403,Attacking Midfield,A. Sabiri,2,28,-,-,28000,1456000
+404,Centre-Forward,M. Kean,9,25,2,2,110000,5720000
+405,Centre-Forward,R. Piccoli,9,24,1,-,57000,2964000
+406,Second Striker,A. Gudmundsson,10,28,3,2,55000,2860000
+407,Centre-Forward,E. Džeko,11,39,2,-,65000,3380000
+411,Left-Back,N. Brown,12,22,1,2,45000,2340000
+412,Centre-Back,A. Theate,12,25,-,-,80000,4160000
+413,Centre-Back,R. Koch,13,29,2,1,108000,5616000
+414,Centre-Back,N. Collins,10,21,-,-,18000,936000
+415,Right-Back,R. Kristensen,8,28,1,-,90000,4680000
+416,Centre-Back,A. Amenda,6,22,-,-,16000,832000
+417,Right-Back,A. Buta,3,28,-,-,12000,624000
+418,Attacking Midfield,Can Uzun,13,19,6,4,25000,1300000
+419,Central Midfield,H. Larsson,11,21,-,3,55000,2860000
+420,Attacking Midfield,F. Chaïbi,13,22,1,6,36000,1872000
+421,Central Midfield,O. Højlund,9,20,-,-,9000,468000
+422,Defensive Midfield,E. Skhiri,8,30,-,-,65000,3380000
+423,Attacking Midfield,M. Götze,8,33,-,2,80000,4160000
+424,Central Midfield,M. Dahoud,1,29,-,-,62000,3224000
+425,Centre-Forward,J. Burkardt,12,25,9,1,95000,4940000
+426,Left Winger,J. Bahoya,12,20,3,1,21000,1092000
+427,Right Winger,R. Doan,13,27,4,4,108000,5616000
+428,Centre-Forward,Elye Wahi,9,22,1,3,72500,3770000
+429,Right Winger,A. Knauff,13,23,4,1,18000,936000
+430,Centre-Forward,M. Batshuayi,6,32,-,-,65000,3380000
+433,Left-Back,A. Robinson,4,28,-,-,60000,3120000
+434,Centre-Back,C. Bassey,11,25,-,-,45000,2340000
+435,Centre-Back,J. Andersen,8,29,-,-,90000,4680000
+436,Left-Back,R. Sessegnon,10,25,1,-,45000,2340000
+437,Right-Back,K. Tete,6,30,-,-,65000,3380000
+438,Right-Back,T. Castagne,10,29,-,1,65000,3380000
+439,Centre-Back,Issa Diop,6,28,-,-,70000,3640000
+440,Centre-Back,J. Cuenca,6,25,-,-,25000,1300000
+441,Attacking Midfield,E. Smith Rowe,11,25,2,-,70000,3640000
+442,Defensive Midfield,S. Berge,10,27,-,-,55000,2860000
+443,Central Midfield,S. Lukić,10,29,1,2,63000,3276000
+444,Central Midfield,Josh King,12,18,1,-,20000,1040000
+445,Central Midfield,H. Reed,3,30,-,1,50000,2600000
+446,Central Midfield,T. Cairney,9,34,-,-,35000,1820000
+447,Left Winger,Kevin,8,22,-,1,50000,2600000
+448,Left Winger,A. Iwobi,11,29,1,2,80000,4160000
+449,Centre-Forward,Rodrigo Muniz,7,24,1,1,60000,3120000
+450,Right Winger,H. Wilson,10,28,1,-,55000,2860000
+451,Right Winger,S. Chukwueze,3,26,-,1,120000,6240000
+452,Right Winger,A. Traoré,10,29,-,1,70000,3640000
+453,Centre-Forward,R. Jiménez,11,34,2,-,100000,5200000
+454,Centre-Forward,J. Kusi-Asare,2,18,-,-,25000,1300000
+457,Centre-Back,A. Bastoni,10,26,1,3,200000,10400000
+458,Left-Back,F. Dimarco,11,27,2,3,143000,7436000
+459,Right-Back,D. Dumfries,11,29,3,-,100000,5200000
+460,Centre-Back,Y. Bisseck,3,24,-,1,36000,1872000
+461,Left-Back,Carlos Augusto,9,26,-,2,54000,2808000
+462,Centre-Back,M. Akanji,9,30,-,-,125000,6500000
+463,Centre-Back,S. de Vrij,4,33,-,-,135000,7020000
+464,Centre-Back,F. Acerbi,7,37,-,-,54000,2808000
+465,Right-Back,M. Darmian,2,35,-,-,62000,3224000
+466,Central Midfield,N. Barella,10,28,1,2,230000,11960000
+467,Central Midfield,D. Frattesi,7,26,-,-,100000,5200000
+468,Right Midfield,Luis Henrique,6,23,-,-,75000,3900000
+469,Defensive Midfield,H. Çalhanoğlu,9,31,4,2,213000,11076000
+470,Central Midfield,P. Sučić,10,22,-,2,53000,2756000
+471,Central Midfield,A. Diouf,2,22,-,-,72000,3744000
+472,Central Midfield,P. Zieliński,8,31,-,1,160000,8320000
+473,Central Midfield,H. Mkhitaryan,8,36,-,-,95000,4940000
+474,Centre-Forward,L. Martínez,10,28,6,1,320000,16640000
+475,Centre-Forward,M. Thuram,7,28,5,2,150000,7800000
+476,Centre-Forward,P. Esposito,9,20,2,1,35000,1820000
+477,Centre-Forward,A. Bonny,11,22,3,4,72000,3744000
+480,Centre-Back,Bremer,5,28,-,2,180000,9360000
+481,Centre-Back,P. Kalulu,11,25,-,1,60000,3120000
+482,Centre-Back,F. Gatti,9,27,1,-,110000,5720000
+483,Centre-Back,L. Kelly,11,27,2,1,85000,4420000
+484,Left-Back,J. Cabal,3,24,1,-,44000,2288000
+485,Centre-Back,D. Rugani,4,31,-,-,65000,3380000
+486,Central Midfield,K. Thuram,10,24,1,1,72000,3744000
+487,Left Midfield,A. Cambiaso,9,25,-,-,85000,4420000
+488,Defensive Midfield,M. Locatelli,10,27,-,-,117000,6084000
+489,Attacking Midfield,T. Koopmeiners,10,27,-,-,110000,5720000
+490,Central Midfield,W. McKennie,10,27,-,-,60000,3120000
+491,Right Midfield,João Mário,9,25,-,1,72000,3744000
+492,Attacking Midfield,V. Adžić,5,19,1,-,15000,780000
+493,Left Midfield,F. Kostić,5,32,-,1,62000,3224000
+494,Left Winger,K. Yıldız,11,20,2,4,57000,2964000
+495,Centre-Forward,L. Openda,7,25,-,-,142000,7384000
+496,Centre-Forward,J. David,10,25,1,1,215000,11180000
+497,Centre-Forward,D. Vlahović,11,25,4,1,430000,22360000
+498,Right Winger,F. Conceição,8,22,2,-,135000,7020000
+499,Right Winger,E. Zhegrova,3,26,-,-,90000,4680000
+501,Centre-Back,M. Gila,8,25,-,-,25000,1300000
+502,Left-Back,N. Tavares,7,25,-,-,80000,4160000
+503,Centre-Back,A. Romagnoli,6,30,-,-,106000,5512000
+504,Centre-Back,O. Provstgaard,4,22,-,-,18000,936000
+505,Right-Back,A. Marusic,7,33,-,1,64000,3328000
+506,Left-Back,L. Pellegrini,5,26,-,-,46000,2392000
+507,Centre-Back,Patric,1,32,-,-,42000,2184000
+508,Right-Back,E. Hysaj,3,31,-,-,100000,5200000
+509,Central Midfield,M. Guendouzi,6,26,1,-,33000,1716000
+510,Defensive Midfield,N. Rovella,4,23,-,1,72000,3744000
+511,Defensive Midfield,R. Belahyane,4,21,-,1,32000,1664000
+512,Attacking Midfield,F. Dele-Bashiru,4,24,-,-,46000,2392000
+513,Defensive Midfield,D. Cataldi,7,31,1,1,54000,2808000
+514,Central Midfield,M. Vecino,2,34,-,-,72000,3744000
+515,Central Midfield,T. Bašić,4,28,1,1,40000,2080000
+516,Centre-Forward,T. Castellanos,6,27,2,3,44000,2288000
+517,Left Winger,M. Zaccagni,7,30,2,-,106000,5512000
+518,Right Winger,G. Isaksen,4,24,-,-,36000,1872000
+519,Centre-Forward,B. Dia,8,28,1,-,50000,2600000
+520,Right Winger,T. Noslin,3,26,-,1,46000,2392000
+521,Right Winger,M. Cancellieri,6,23,3,-,30000,1560000
+522,Right Winger,Pedro,8,38,-,1,55000,2860000
+525,Centre-Back,P. Struijk,8,26,-,-,50000,2600000
+526,Centre-Back,J. Bijol,2,26,-,-,45000,2340000
+527,Right-Back,J. Justin,4,27,-,-,35000,1820000
+528,Left-Back,G. Gudmundsson,9,26,-,-,40000,2080000
+529,Right-Back,J. Bogle,10,25,1,1,30000,1560000
+530,Centre-Back,Joe Rodon,9,28,2,-,40000,2080000
+531,Centre-Back,S. Bornauw,1,26,-,-,45000,2340000
+532,Left-Back,Sam Byram,2,32,-,-,25000,1300000
+533,Defensive Midfield,E. Ampadu,7,25,-,-,40000,2080000
+534,Defensive Midfield,A. Stach,9,26,1,1,45000,2340000
+535,Central Midfield,S. Longstaff,10,27,1,2,80000,4160000
+536,Attacking Midfield,B. Aaronson,10,25,1,-,45000,2340000
+537,Central Midfield,Ao Tanaka,7,27,-,-,25000,1300000
+538,Defensive Midfield,I. Gruev,6,25,-,-,15000,780000
+539,Right Winger,W. Gnonto,5,21,-,1,40000,2080000
+540,Centre-Forward,J. Piroe,5,26,-,-,40000,2080000
+541,Left Winger,N. Okafor,7,25,2,-,72000,3744000
+542,Right Winger,D. James,7,27,-,-,75000,3900000
+543,Centre-Forward,D. Calvert-Lewin,8,28,1,-,100000,5200000
+544,Left Winger,J. Harrison,9,28,-,-,90000,4680000
+545,Centre-Forward,L. Nmecha,10,26,1,-,35000,1820000
+548,Centre-Back,C. Lukeba,9,22,1,1,101000,5252000
+549,Left-Back,D. Raum,10,27,1,3,145000,7540000
+550,Centre-Back,E. Bitshiabu,3,20,-,-,55000,2860000
+551,Right-Back,R. Baku,10,27,-,2,72500,3770000
+552,Right-Back,K. Nedeljkovic,2,19,-,-,26000,1352000
+553,Centre-Back,W. Orbán,10,32,1,2,108000,5616000
+554,Centre-Back,L. Klostermann,2,29,-,-,108000,5616000
+555,Central Midfield,E. Banzuzi,9,20,2,1,30000,1560000
+556,Central Midfield,N. Seiwald,10,24,-,-,65000,3380000
+557,Attacking Midfield,A. Maksimovic,4,18,-,-,22000,1144000
+558,Attacking Midfield,C. Baumgartner,10,26,7,1,85000,4420000
+559,Central Midfield,A. Ouédraogo,9,19,2,3,25000,1300000
+560,Central Midfield,X. Schlager,7,28,-,-,75000,3900000
+561,Central Midfield,K. Kampl,3,35,-,-,47000,2444000
+562,Right Winger,J. Bakayoko,9,22,3,-,62000,3224000
+563,Left Winger,A. Nusa,9,20,1,1,43000,2236000
+564,Centre-Forward,C. Harder,7,20,-,-,43000,2236000
+565,Centre-Forward,Rômulo,9,23,3,3,30000,1560000
+566,Left Winger,Y. Diomande,9,18,2,2,15000,780000
+567,Left Winger,T. Werner,1,29,-,-,192000,9984000
+568,Left Winger,T. Gomis,2,19,-,-,11000,572000
+570,Centre-Back,J. Quansah,10,22,1,-,72500,3770000
+571,Centre-Back,E. Tapsoba,12,26,2,-,108000,5616000
+572,Left-Back,A. Grimaldo,12,30,6,4,137000,7124000
+573,Centre-Back,Loïc Badé,10,25,-,-,90000,4680000
+574,Centre-Back,J. Belocian,3,20,-,-,30000,1560000
+575,Centre-Back,Axel Tape,6,18,-,-,7000,364000
+576,Right-Back,Arthur,7,22,1,-,18000,936000
+577,Right-Back,L. Vázquez,5,34,-,1,125000,6500000
+578,Attacking Midfield,M. Tillman,7,23,2,-,90000,4680000
+579,Central Midfield,E. Palacios,2,27,-,-,145000,7540000
+580,Defensive Midfield,E. Fernández,8,23,-,-,47000,2444000
+581,Central Midfield,A. García,12,28,2,2,100000,5200000
+582,Attacking Midfield,C. Echeverri,6,19,-,1,18000,936000
+583,Attacking Midfield,I. Maza,10,19,-,-,25000,1300000
+584,Defensive Midfield,R. Andrich,10,31,-,-,72500,3770000
+585,Attacking Midfield,J. Hofmann,5,33,-,2,83000,4316000
+586,Left Winger,E. Ben Seghir,7,20,-,-,61000,3172000
+587,Centre-Forward,P. Schick,8,29,4,1,145000,7540000
+588,Left Winger,M. Terrier,1,28,1,-,90000,4680000
+589,Right Winger,N. Tella,4,26,-,2,65000,3380000
+590,Centre-Forward,C. Kofane,12,19,4,3,12000,624000
+591,Right Winger,E. Poku,11,21,3,2,18000,936000
+594,Centre-Back,Alexsandro,4,26,-,-,42000,2184000
+595,Right-Back,T. Santos,4,23,-,1,35000,1820000
+596,Centre-Back,N. Ngoy,9,22,-,1,17500,910000
+597,Left-Back,R. Perraud,9,28,2,1,45000,2340000
+598,Left-Back,C. Verdonk,6,28,-,1,28000,1456000
+599,Right-Back,T. Meunier,7,34,-,1,87500,4550000
+600,Centre-Back,C. Mbemba,7,31,-,1,53000,2756000
+601,Centre-Back,A. Mandi,10,34,-,-,40000,2080000
+602,Centre-Back,O. Touré,1,20,-,-,5000,260000
+603,Central Midfield,A. Bouaddi,12,18,-,-,21000,1092000
+604,Attacking Midfield,H. Haraldsson,11,22,5,1,26000,1352000
+605,Defensive Midfield,N. Mukau,8,20,1,-,20000,1040000
+606,Defensive Midfield,N. Bentaleb,10,30,1,-,35000,1820000
+607,Central Midfield,A. Gomes,1,32,-,-,87500,4550000
+608,Central Midfield,E. Mbappé,5,18,2,-,15000,780000
+609,Defensive Midfield,B. André,9,35,2,1,87500,4550000
+610,Defensive Midfield,U. Raghouber,2,22,-,-,5000,260000
+611,Left Winger,M. Fernández-Pardo,12,20,2,4,23000,1196000
+612,Left Winger,O. Sahraoui,10,24,1,2,26000,1352000
+613,Centre-Forward,H. Igamane,10,22,7,1,25000,1300000
+614,Right Winger,M. Broholm,3,20,-,-,17500,910000
+615,Left Winger,F. Correia,12,24,2,4,25000,1300000
+616,Centre-Forward,O. Giroud,10,39,3,1,52000,2704000
+619,Centre-Back,I. Konaté,13,26,1,-,70000,3640000
+620,Left-Back,M. Kerkez,13,21,1,-,75000,3900000
+621,Right-Back,J. Frimpong,9,24,1,-,100000,5200000
+622,Right-Back,C. Bradley,11,22,-,1,75000,3900000
+623,Centre-Back,G. Leoni,1,18,-,-,55000,2860000
+624,Centre-Back,V. van Dijk,13,34,2,-,350000,18200000
+625,Centre-Back,Joe Gomez,5,28,-,-,85000,4420000
+626,Left-Back,A. Robertson,8,31,1,1,160000,8320000
+627,Attacking Midfield,F. Wirtz,13,22,-,3,200000,10400000
+628,Central Midfield,A. Mac Allister,12,26,-,1,150000,7800000
+629,Defensive Midfield,R. Gravenberch,9,23,2,2,150000,7800000
+630,Attacking Midfield,D. Szoboszlai,13,25,2,4,120000,6240000
+631,Central Midfield,C. Jones,12,24,-,-,15000,780000
+632,Defensive Midfield,W. Endo,6,32,-,1,50000,2600000
+633,Central Midfield,T. Nyoni,1,18,-,-,25000,1300000
+634,Centre-Forward,A. Isak,8,26,1,1,280000,14560000
+635,Centre-Forward,H. Ekitiké,13,23,6,1,200000,10400000
+636,Left Winger,C. Gakpo,13,26,4,3,250000,13000000
+637,Right Winger,M. Salah,13,33,4,3,400000,20800000
+638,Right Winger,F. Chiesa,9,28,2,3,150000,7800000
+639,Left Winger,R. Ngumoha,6,17,1,-,25000,1300000
+642,Centre-Back,M. Niakhaté,12,29,-,1,105000,5460000
+643,Right-Back,A. Maitland-Niles,12,28,-,2,70000,3640000
+644,Left-Back,Abner,6,25,-,-,49000,2548000
+645,Left-Back,N. Tagliafico,9,33,-,1,63000,3276000
+646,Centre-Back,C. Mata,12,32,-,-,42000,2184000
+647,Centre-Back,R. Kluivert,7,24,1,1,21000,1092000
+648,Central Midfield,C. Tolisso,11,31,3,-,122000,6344000
+649,Defensive Midfield,T. Morton,11,22,1,-,25000,1300000
+650,Defensive Midfield,T. Tessmann,12,24,2,-,56000,2912000
+651,Attacking Midfield,P. Sulc,12,24,3,2,52500,2730000
+652,Attacking Midfield,A. Karabec,12,22,1,2,17500,910000
+653,Central Midfield,K. Merah,9,18,-,-,17500,910000
+654,Left Winger,M. Fofana,12,20,2,1,52500,2730000
+655,Centre-Forward,M. Satriano,7,24,1,1,32000,1664000
+656,Centre-Forward,E. Molebe,2,18,-,-,5000,260000
+659,Centre-Back,J. Gvardiol,8,23,-,2,200000,10400000
+660,Centre-Back,R. Dias,12,28,-,-,250000,13000000
+661,Left-Back,R. Aït-Nouri,3,24,-,-,120000,6240000
+662,Right-Back,R. Lewis,8,20,-,2,25000,1300000
+663,Right-Back,M. Nunes,10,27,1,1,130000,6760000
+664,Centre-Back,A. Khusanov,5,21,-,-,50000,2600000
+665,Left-Back,N. O'Reilly,11,20,-,2,30000,1560000
+666,Centre-Back,J. Stones,8,31,-,-,250000,13000000
+667,Centre-Back,N. Aké,7,30,-,-,160000,8320000
+668,Defensive Midfield,Rodri,7,29,-,-,220000,11440000
+669,Central Midfield,T. Reijnders,13,27,1,3,230000,11960000
+670,Defensive Midfield,N. González,12,23,-,-,75000,3900000
+671,Attacking Midfield,B. Silva,12,31,1,1,300000,15600000
+672,Central Midfield,M. Kovacic,2,31,-,-,150000,7800000
+673,Defensive Midfield,K. Phillips,1,29,-,-,150000,7800000
+674,Centre-Forward,E. Haaland,12,25,15,1,525000,27300000
+675,Right Winger,P. Foden,10,25,2,2,225000,11700000
+676,Centre-Forward,O. Marmoush,5,26,-,1,295000,15340000
+677,Left Winger,J. Doku,12,23,1,3,50000,2600000
+678,Left Winger,Savinho,10,21,1,2,80000,4160000
+679,Right Winger,R. Cherki,5,22,1,-,180000,9360000
+680,Right Winger,O. Bobb,11,22,-,1,50000,2600000
+683,Centre-Back,Leny Yoro,9,19,-,1,115000,5980000
+684,Centre-Back,M. de Ligt,10,26,-,-,195000,10140000
+685,Right-Back,D. Dalot,8,26,-,1,85000,4420000
+686,Right-Back,N. Mazraoui,3,27,-,-,135000,7020000
+687,Left-Back,P. Dorgu,9,21,-,1,40000,2080000
+688,Centre-Back,H. Maguire,8,32,2,1,190000,9880000
+689,Left-Back,Luke Shaw,9,30,-,1,150000,7800000
+690,Centre-Back,A. Heaven,3,19,-,1,25000,1300000
+691,Centre-Back,T. Fredricson,1,20,-,-,25000,1300000
+692,Attacking Midfield,B. Fernandes,10,31,2,1,300000,15600000
+693,Central Midfield,K. Mainoo,8,20,-,1,25000,1300000
+694,Defensive Midfield,M. Ugarte,9,24,-,-,120000,6240000
+695,Attacking Midfield,M. Mount,8,26,1,1,150000,7800000
+696,Defensive Midfield,Casemiro,8,33,2,1,350000,18200000
+697,Second Striker,M. Cunha,9,26,1,-,180000,9360000
+698,Right Winger,B. Mbeumo,10,26,5,1,150000,7800000
+699,Centre-Forward,B. Šeško,10,22,2,1,160000,8320000
+700,Right Winger,A. Diallo,9,23,-,2,120000,6240000
+701,Centre-Forward,J. Zirkzee,5,24,-,-,105000,5460000
+704,Centre-Back,F. Medina,4,26,-,-,80000,4160000
+705,Centre-Back,L. Balerdi,10,26,-,-,83000,4316000
+706,Centre-Back,N. Aguerd,8,29,1,-,94000,4888000
+707,Centre-Back,B. Pavard,9,29,1,1,139000,7228000
+708,Centre-Back,C. Egan-Riley,5,22,-,-,35000,1820000
+709,Left-Back,Emerson,9,31,-,-,70000,3640000
+710,Right-Back,A. Murillo,12,29,2,1,55000,2860000
+711,Left-Back,U. Garcia,4,29,-,-,40000,2080000
+712,Right-Back,P. Lirola,1,28,-,-,31500,1638000
+713,Central Midfield,M. O'Riley,9,24,1,1,77000,4004000
+714,Defensive Midfield,A. Vermeeren,6,20,-,2,52500,2730000
+715,Attacking Midfield,A. Gomes,10,25,1,-,77000,4004000
+716,Defensive Midfield,P. Højbjerg,12,30,1,-,105000,5460000
+717,Central Midfield,B. Nadir,8,21,-,3,15000,780000
+718,Defensive Midfield,G. Kondogbia,3,32,-,-,105000,5460000
+719,Attacking Midfield,D. Bakola,4,17,-,-,5000,260000
+720,Right Winger,M. Greenwood,12,24,8,4,105000,5460000
+721,Left Winger,I. Paixão,9,25,4,2,98000,5096000
+722,Centre-Forward,A. Gouiri,7,25,1,1,87500,4550000
+723,Left Winger,H. Traoré,1,25,-,-,77000,4004000
+724,Right Winger,T. Weah,12,25,1,1,87500,4550000
+725,Centre-Forward,R. Vaz,9,18,2,2,9000,468000
+726,Centre-Forward,P. Aubameyang,10,36,4,5,87500,4550000
+729,Right-Back,Vanderson,6,24,-,1,62000,3224000
+730,Centre-Back,T. Kehrer,8,29,-,-,70000,3640000
+731,Left-Back,Caio Henrique,10,28,-,-,57000,2964000
+732,Centre-Back,C. Mawissa,7,20,-,-,25000,1300000
+733,Centre-Back,M. Salisu,6,26,1,-,62000,3224000
+734,Right-Back,J. Teze,10,26,1,-,42000,2184000
+735,Centre-Back,Eric Dier,8,31,2,-,66000,3432000
+736,Left-Back,K. Ouattara,9,21,-,1,17000,884000
+737,Defensive Midfield,D. Zakaria,4,28,-,1,90000,4680000
+738,Central Midfield,L. Camara,6,21,-,3,25000,1300000
+739,Attacking Midfield,A. Golovin,5,29,-,-,85000,4420000
+740,Attacking Midfield,S. Idumbo,5,20,-,1,15000,780000
+741,Central Midfield,M. Coulibaly,9,21,-,-,11000,572000
+742,Defensive Midfield,A. Bamba,6,19,-,-,6500,338000
+743,Right Winger,M. Akliouche,11,23,2,1,62000,3224000
+744,Centre-Forward,M. Biereth,11,22,1,-,55000,2860000
+745,Centre-Forward,F. Balogun,10,24,2,2,62000,3224000
+746,Left Winger,T. Minamino,11,30,2,3,85000,4420000
+747,Centre-Forward,G. Ilenikhena,10,19,2,-,22000,1144000
+748,Left Winger,Ansu Fati,8,22,6,-,50000,2600000
+749,Right Winger,K. Diatta,7,26,-,2,57000,2964000
+750,Centre-Forward,P. Brunner,3,19,-,-,10000,520000
+753,Centre-Back,A. Buongiorno,8,26,-,1,90000,4680000
+754,Centre-Back,S. Beukema,8,26,1,-,62000,3224000
+755,Left-Back,M. Gutiérrez,6,24,-,-,81000,4212000
+756,Left-Back,M. Olivera,9,27,-,-,50000,2600000
+757,Centre-Back,A. Rrahmani,2,31,-,-,62000,3224000
+758,Right-Back,G. Di Lorenzo,11,32,-,2,106000,5512000
+759,Centre-Back,L. Marianucci,1,21,-,-,35000,1820000
+760,Left-Back,L. Spinazzola,11,32,1,3,65000,3380000
+761,Centre-Back,Juan Jesus,11,34,-,-,35000,1820000
+762,Central Midfield,S. McTominay,11,28,4,1,106000,5512000
+763,Central Midfield,F. Anguissa,12,29,4,2,66000,3432000
+764,Defensive Midfield,S. Lobotka,8,30,-,1,70000,3640000
+765,Defensive Midfield,B. Gilmour,11,24,1,-,64000,3328000
+766,Attacking Midfield,K. De Bruyne,11,34,4,2,213000,11076000
+767,Attacking Midfield,E. Elmas,8,26,-,-,106000,5512000
+768,Attacking Midfield,A. Vergara,1,22,-,-,10000,520000
+769,Centre-Forward,R. Højlund,7,22,4,-,178000,9256000
+770,Centre-Forward,L. Lucca,10,25,1,-,72000,3744000
+771,Left Winger,Noa Lang,8,26,-,-,90000,4680000
+772,Right Winger,D. Neres,10,28,-,3,106000,5512000
+773,Right Winger,M. Politano,12,32,-,1,124000,6448000
+774,Centre-Forward,G. Ambrosino,2,22,-,-,18000,936000
+777,Centre-Back,S. Botman,11,25,-,-,90000,4680000
+778,Right-Back,T. Livramento,8,22,-,1,50000,2600000
+779,Left-Back,L. Hall,5,21,-,-,45000,2340000
+780,Centre-Back,M. Thiaw,10,24,-,-,75000,3900000
+781,Centre-Back,F. Schär,7,33,-,-,70000,3640000
+782,Centre-Back,Dan Burn,12,33,-,1,70000,3640000
+783,Right-Back,K. Trippier,12,35,-,-,120000,6240000
+784,Centre-Back,J. Lascelles,2,31,-,-,40000,2080000
+785,Right-Back,E. Krafth,1,31,-,-,55000,2860000
+786,Left-Back,A. Murphy,1,21,-,-,8000,416000
+787,Central Midfield,B. Guimarães,12,27,3,3,160000,8320000
+788,Defensive Midfield,S. Tonali,11,25,-,2,150000,7800000
+789,Central Midfield,J. Ramsey,4,24,-,-,120000,6240000
+790,Central Midfield,Joelinton,11,29,2,-,150000,7800000
+791,Central Midfield,L. Miley,10,19,-,1,30000,1560000
+792,Central Midfield,J. Willock,4,26,-,-,80000,4160000
+793,Left Winger,A. Gordon,10,24,4,1,150000,7800000
+794,Centre-Forward,N. Woltemade,10,23,5,-,132500,6890000
+795,Right Winger,A. Elanga,13,23,-,1,100000,5200000
+796,Left Winger,H. Barnes,13,27,3,1,80000,4160000
+797,Right Winger,J. Murphy,10,30,1,3,35000,1820000
+798,Centre-Forward,W. Osula,12,22,3,1,25000,1300000
+801,Centre-Back,Murillo,8,23,-,-,75000,3900000
+802,Centre-Back,N. Milenković,12,28,-,-,105000,5460000
+803,Left-Back,N. Williams,12,24,1,-,65000,3380000
+804,Right-Back,Ola Aina,3,29,-,-,60000,3120000
+805,Left-Back,O. Zinchenko,6,28,-,-,120000,6240000
+806,Centre-Back,Morato,8,24,-,-,35000,1820000
+807,Centre-Back,J. Cunha,2,20,-,-,35000,1820000
+808,Right-Back,N. Savona,7,22,-,-,45000,2340000
+809,Centre-Back,W. Boly,2,34,-,-,40000,2080000
+810,Attacking Midfield,M. Gibbs-White,13,25,1,3,110000,5720000
+811,Central Midfield,E. Anderson,12,22,-,1,40000,2080000
+812,Attacking Midfield,O. Hutchinson,6,21,-,1,55000,2860000
+813,Central Midfield,Douglas Luiz,6,27,-,1,135000,7020000
+814,Attacking Midfield,J. McAtee,5,23,-,-,40000,2080000
+815,Defensive Midfield,I. Sangaré,10,27,-,-,75000,3900000
+816,Central Midfield,N. Domínguez,2,27,-,-,35000,1820000
+817,Central Midfield,R. Yates,8,27,-,-,50000,2600000
+818,Right Winger,Dan Ndoye,11,25,2,1,85000,4420000
+819,Right Winger,D. Bakwa,6,23,-,-,70000,3640000
+820,Left Winger,C. Hudson-Odoi,13,24,1,-,90000,4680000
+821,Centre-Forward,A. Kalimuendo,8,23,-,-,60000,3120000
+822,Centre-Forward,Igor Jesus,12,24,5,-,50000,2600000
+823,Centre-Forward,T. Awoniyi,2,28,-,-,50000,2600000
+824,Centre-Forward,C. Wood,9,33,3,-,90000,4680000
+826,Right-Back,A. Hakimi,12,26,2,3,260000,13520000
+827,Left-Back,N. Mendes,11,23,3,3,210000,10920000
+828,Centre-Back,W. Pacho,10,24,1,-,110000,5720000
+829,Centre-Back,I. Zabarnyi,11,23,1,-,100000,5200000
+830,Centre-Back,Marquinhos,5,31,1,-,260000,13520000
+831,Centre-Back,L. Beraldo,6,21,1,-,80000,4160000
+832,Left-Back,L. Hernández,8,29,-,-,260000,13520000
+833,Defensive Midfield,Vitinha,12,25,2,6,230000,11960000
+834,Central Midfield,J. Neves,4,21,3,-,110000,5720000
+835,Central Midfield,W. Zaïre-Emery,13,19,-,1,220000,11440000
+836,Central Midfield,F. Ruiz,8,29,1,2,120000,6240000
+837,Central Midfield,S. Mayulu,9,19,2,1,30000,1560000
+838,Centre-Forward,O. Dembélé,6,28,3,2,350000,18200000
+839,Left Winger,K. Kvaratskhelia,10,24,2,2,315000,16380000
+840,Right Winger,D. Doué,7,20,3,3,135000,7020000
+841,Left Winger,B. Barcola,12,23,4,3,140000,7280000
+842,Centre-Forward,G. Ramos,12,24,4,-,120000,6240000
+843,Right Winger,K. Lee,12,24,1,-,90000,4680000
+844,Right Winger,I. Mbaye,12,17,-,-,15000,780000
+846,Right-Back,T. Alexander-Arnold,5,27,-,-,320000,16640000
+847,Centre-Back,D. Huijsen,10,20,-,1,172000,8944000
+848,Left-Back,Á. Carreras,12,22,-,-,172000,8944000
+849,Centre-Back,É. Militão,10,27,1,1,280000,14560000
+850,Centre-Back,R. Asencio,8,22,-,-,120000,6240000
+851,Left-Back,F. García,4,26,-,-,100000,5200000
+852,Centre-Back,A. Rüdiger,1,32,-,-,280000,14560000
+853,Right-Back,D. Carvajal,8,33,-,-,200000,10400000
+854,Centre-Back,D. Alaba,4,33,-,-,430000,22360000
+855,Attacking Midfield,J. Bellingham,8,22,2,1,400000,20800000
+856,Central Midfield,F. Valverde,12,27,-,3,320000,16640000
+857,Defensive Midfield,A. Tchouaméni,13,25,-,-,240000,12480000
+858,Attacking Midfield,A. Güler,13,20,3,5,100000,5200000
+859,Central Midfield,E. Camavinga,8,22,1,-,240000,12480000
+860,Central Midfield,D. Ceballos,8,29,-,-,200000,10400000
+861,Centre-Forward,K. Mbappé,13,26,16,2,600000,31200000
+862,Left Winger,Vinicius Junior,13,25,5,4,400000,20800000
+863,Right Winger,Rodrygo,10,24,-,2,320000,16640000
+864,Right Winger,F. Mastantuono,11,18,1,1,140000,7280000
+865,Right Winger,B. Díaz,11,26,1,2,140000,7280000
+866,Centre-Forward,G. García,9,21,-,1,32000,1664000
+868,Centre-Back,E. Ndicka,11,26,1,-,100000,5200000
+869,Right-Back,Wesley,9,22,1,-,72000,3744000
+870,Left-Back,Angeliño,5,28,-,-,72000,3744000
+871,Left-Back,K. Tsimikas,6,29,-,1,90000,4680000
+872,Centre-Back,G. Mancini,11,29,1,-,125000,6500000
+873,Right-Back,D. Rensch,7,22,-,-,42000,2184000
+874,Centre-Back,M. Hermoso,9,30,-,-,125000,6500000
+875,Right-Back,Z. Çelik,10,28,-,1,50000,2600000
+876,Centre-Back,J. Ziolkowski,4,20,-,-,25000,1300000
+877,Central Midfield,Manu Koné,11,24,-,-,100000,5200000
+878,Central Midfield,N. El Aynaoui,9,24,-,-,53000,2756000
+879,Central Midfield,N. Pisilli,4,21,-,-,65000,3380000
+880,Attacking Midfield,T. Baldanzi,4,22,-,-,40000,2080000
+881,Attacking Midfield,L. Pellegrini,7,29,1,1,125000,6500000
+882,Defensive Midfield,B. Cristante,10,30,1,-,100000,5200000
+883,Right Winger,M. Soulé,11,22,3,2,72000,3744000
+884,Centre-Forward,A. Dovbyk,10,28,1,1,106000,5512000
+885,Centre-Forward,E. Ferguson,9,21,-,1,65000,3380000
+886,Right Winger,L. Bailey,3,28,-,-,125000,6500000
+887,Second Striker,P. Dybala,7,31,2,-,250000,13000000
+888,Left Winger,S. El Shaarawy,7,33,-,-,90000,4680000
+891,Right-Back,J. Aramburu,10,23,-,-,40000,2080000
+892,Left-Back,S. Gómez,11,25,-,-,48000,2496000
+893,Centre-Back,I. Zubeldia,10,28,-,-,60000,3120000
+894,Centre-Back,J. Martín,2,19,-,-,16000,832000
+895,Left-Back,A. Muñoz,8,28,-,-,32000,1664000
+896,Centre-Back,D. Caleta-Car,9,29,-,-,72000,3744000
+897,Centre-Back,A. Elustondo,4,31,-,-,40000,2080000
+898,Right-Back,Á. Odriozola,2,29,1,-,51000,2652000
+899,Attacking Midfield,B. Méndez,9,28,1,1,100000,5200000
+900,Central Midfield,C. Soler,8,28,1,-,80000,4160000
+901,Central Midfield,L. Sucic,5,23,-,1,32000,1664000
+902,Central Midfield,Y. Herrera,2,27,-,-,80000,4160000
+903,Central Midfield,B. Turrientes,7,23,1,-,32000,1664000
+904,Attacking Midfield,P. Marín,11,22,-,-,20000,1040000
+905,Attacking Midfield,A. Zakharyan,5,22,1,-,25000,1300000
+906,Defensive Midfield,J. Gorrotxategi,10,23,-,-,32000,1664000
+907,Attacking Midfield,M. Goti,2,23,1,-,4000,208000
+908,Right Winger,T. Kubo,8,24,1,-,100000,5200000
+909,Centre-Forward,M. Oyarzabal,11,28,4,1,120000,6240000
+910,Left Winger,A. Barrenetxea,10,23,1,3,60000,3120000
+911,Centre-Forward,O. Óskarsson,3,21,1,-,25000,1300000
+912,Left Winger,G. Guedes,10,28,-,1,80000,4160000
+913,Centre-Forward,U. Sadiq,3,28,-,-,40000,2080000
+914,Centre-Forward,J. Karrikaburu,4,23,-,-,16000,832000
+917,Centre-Back,C. Romero,9,27,1,1,195000,10140000
+918,Centre-Back,M. van de Ven,13,24,5,-,90000,4680000
+919,Left-Back,D. Udogie,8,22,-,-,75000,3900000
+920,Right-Back,P. Porro,14,26,-,3,85000,4420000
+921,Left-Back,D. Spence,13,25,-,-,40000,2080000
+922,Centre-Back,K. Danso,10,27,-,-,65000,3380000
+923,Attacking Midfield,X. Simons,10,22,-,1,195000,10140000
+924,Central Midfield,L. Bergvall,13,19,1,3,60000,3120000
+925,Central Midfield,A. Gray,6,19,-,-,75000,3900000
+926,Central Midfield,P. Sarr,12,23,2,2,70000,3640000
+927,Defensive Midfield,J. Palhinha,14,30,3,1,135000,7020000
+928,Central Midfield,R. Bentancur,13,28,1,1,75000,3900000
+929,Right Winger,M. Kudus,13,25,1,5,150000,7800000
+930,Centre-Forward,D. Solanke,3,28,-,-,140000,7280000
+931,Right Winger,B. Johnson,13,24,3,-,100000,5200000
+932,Centre-Forward,M. Tel,9,20,1,-,55000,2860000
+933,Centre-Forward,R. Kolo Muani,4,26,-,-,150000,7800000
+934,Centre-Forward,Richarlison,14,28,3,2,90000,4680000
+935,Left Winger,W. Odobert,11,20,-,1,40000,2080000
+938,Centre-Back,M. Sarr,9,20,-,-,42000,2184000
+939,Centre-Back,I. Doukouré,11,22,1,1,35000,1820000
+940,Right-Back,G. Doué,7,23,1,4,25000,1300000
+941,Left-Back,B. Chilwell,4,28,-,-,70000,3640000
+942,Centre-Back,L. Høgsberg,10,19,-,-,20000,1040000
+943,Centre-Back,A. Omobamidele,9,23,-,-,25000,1300000
+944,Left-Back,E. Sobol,1,30,-,-,20000,1040000
+945,Attacking Midfield,J. Enciso,4,21,-,-,50000,2600000
+946,Left Midfield,D. Moreira,11,21,1,3,25000,1300000
+947,Left Midfield,S. Nanasi,4,23,-,-,25000,1300000
+948,Central Midfield,V. Barco,13,21,-,2,20000,1040000
+949,Attacking Midfield,K. Páez,11,18,1,-,17500,910000
+950,Central Midfield,M. Amougou,5,19,-,-,20000,1040000
+951,Attacking Midfield,F. Lemaréchal,13,22,-,4,20000,1040000
+952,Defensive Midfield,M. Oyedele,1,20,-,-,15000,780000
+953,Defensive Midfield,R. Luís,7,20,-,-,15000,780000
+954,Defensive Midfield,R. Nzingoula,2,19,-,-,5000,260000
+955,Central Midfield,S. El Mourabet,11,20,-,-,8000,416000
+956,Centre-Forward,E. Emegha,6,22,4,2,28000,1456000
+957,Centre-Forward,J. Panichelli,12,23,9,-,31000,1612000
+958,Right Winger,S. Amo-Ameyaw,8,19,-,1,15000,780000
+959,Left Winger,M. Godo,7,22,2,2,17500,910000
+960,Right Winger,A. Ouattara,13,20,3,-,7000,364000
+963,Left-Back,M. Mittelstädt,12,28,1,2,95000,4940000
+964,Centre-Back,F. Jeltsch,7,19,-,-,18000,936000
+965,Centre-Back,J. Chabot,9,27,-,-,55000,2860000
+966,Right-Back,L. Assignon,11,25,-,-,45000,2340000
+967,Right-Back,J. Vagnoman,10,24,1,1,55000,2860000
+968,Centre-Back,L. Jaquez,8,22,-,-,16000,832000
+969,Centre-Back,A. Al-Dakhil,3,23,-,-,30000,1560000
+970,Centre-Back,R. Hendriks,12,24,-,-,15000,780000
+971,Right-Back,P. Stenzel,1,29,-,-,18000,936000
+972,Centre-Back,D. Zagadou,2,26,-,-,45000,2340000
+973,Defensive Midfield,A. Stiller,13,24,1,4,87000,4524000
+974,Attacking Midfield,B. El Khannouss,9,21,3,1,55000,2860000
+975,Defensive Midfield,A. Karazor,11,29,-,-,55000,2860000
+976,Defensive Midfield,C. Andrés,10,20,1,1,15000,780000
+977,Central Midfield,N. Nartey,8,25,-,-,12000,624000
+978,Right Winger,J. Leweling,12,24,1,4,62000,3224000
+979,Centre-Forward,E. Demirovic,10,27,5,1,90000,4680000
+980,Centre-Forward,D. Undav,7,29,1,-,87000,4524000
+981,Centre-Forward,T. Tomás,12,23,2,1,36000,1872000
+982,Left Winger,C. Führich,12,27,1,1,65000,3380000
+983,Right Winger,B. Bouanani,8,20,1,-,30000,1560000
+984,Right Winger,L. Jovanovic,3,18,-,-,10000,520000
+987,Right-Back,L. Geertruida,6,25,-,-,85000,4420000
+988,Right-Back,Trai Hume,9,23,-,1,45000,2340000
+989,Centre-Back,D. Ballard,7,26,1,-,35000,1820000
+990,Centre-Back,O. Alderete,8,28,1,1,65000,3380000
+991,Right-Back,N. Mukiele,8,27,1,-,100000,5200000
+992,Left-Back,R. Mandava,6,31,-,-,50000,2600000
+993,Left-Back,A. Masuaku,4,31,-,-,55000,2860000
+994,Right-Back,N. Huggins,1,24,-,-,2500,130000
+995,Central Midfield,H. Diarra,4,21,-,1,50000,2600000
+996,Attacking Midfield,C. Rigg,7,18,-,-,35000,1820000
+997,Central Midfield,E. Le Fée,9,25,1,-,75000,3900000
+998,Central Midfield,N. Sadiki,9,20,-,-,40000,2080000
+999,Defensive Midfield,G. Xhaka,9,33,-,3,110000,5720000
+1000,Central Midfield,Dan Neil,3,23,-,-,15000,780000
+1001,Attacking Midfield,M. Aleksic,1,20,-,1,5000,260000
+1002,Attacking Midfield,H. Jones,1,20,-,-,5000,260000
+1003,Left Winger,S. Adingra,6,23,-,1,70000,3640000
+1004,Right Winger,C. Talbi,9,20,1,2,40000,2080000
+1005,Centre-Forward,B. Brobbey,4,23,-,1,60000,3120000
+1006,Centre-Forward,E. Mayenda,6,20,1,-,30000,1560000
+1007,Centre-Forward,W. Isidor,10,25,4,-,25000,1300000
+1008,Right Winger,P. Roberts,2,28,-,-,2500,130000
+1009,Right Winger,B. Traoré,4,30,-,-,65000,3380000
+1012,Centre-Back,R. Veiga,12,22,1,-,72000,3744000
+1013,Centre-Back,J. Foyth,8,27,-,-,80000,4160000
+1014,Centre-Back,R. Marín,9,23,1,-,50000,2600000
+1015,Right-Back,S. Mouriño,11,23,-,1,25000,1300000
+1016,Left-Back,S. Cardona,12,26,-,2,40000,2080000
+1017,Right-Back,P. Navarro,2,20,-,-,12000,624000
+1018,Left-Back,A. Pedraza,10,29,-,-,64000,3328000
+1019,Right-Back,A. Altimira,1,24,-,-,8000,416000
+1020,Defensive Midfield,P. Gueye,13,26,2,1,60000,3120000
+1021,Central Midfield,S. Comesaña,12,29,1,1,45000,2340000
+1022,Defensive Midfield,T. Partey,11,32,-,-,80000,4160000
+1023,Central Midfield,D. Parejo,12,36,-,-,72000,3744000
+1024,Centre-Forward,G. Mikautadze,9,24,3,1,90000,4680000
+1025,Left Winger,A. Moleiro,13,22,2,1,60000,3120000
+1026,Right Winger,I. Akhomach,7,21,-,1,16000,832000
+1027,Left Winger,M. Solomon,4,26,1,1,72000,3744000
+1028,Right Winger,T. Buchanan,13,26,4,-,60000,3120000
+1029,Centre-Forward,T. Oluwaseyi,9,25,1,1,52000,2704000
+1030,Right Winger,N. Pépé,13,30,2,2,68000,3536000
+1031,Centre-Forward,A. Pérez,5,32,-,-,60000,3120000
+1032,Centre-Forward,G. Moreno,3,33,1,-,72000,3744000
+1035,Centre-Back,M. Kilman,10,28,-,-,100000,5200000
+1036,Left-Back,E. Diouf,10,20,-,3,35000,1820000
+1037,Centre-Back,J. Todibo,5,25,-,-,80000,4160000
+1038,Right-Back,A. Wan-Bissaka,5,27,-,-,90000,4680000
+1039,Centre-Back,Igor Julio,1,27,-,-,45000,2340000
+1040,Centre-Back,K. Mavropanos,7,27,-,-,50000,2600000
+1041,Right-Back,K. Walker-Peters,9,28,-,1,55000,2860000
+1042,Left-Back,O. Scarles,2,19,-,-,20000,1040000
+1043,Attacking Midfield,L. Paquetá,10,28,3,-,150000,7800000
+1044,Central Midfield,M. Fernandes,7,21,1,-,60000,3120000
+1045,Defensive Midfield,S. Magassa,5,22,-,-,35000,1820000
+1046,Defensive Midfield,T. Souček,7,30,1,-,90000,4680000
+1047,Central Midfield,J. Ward-Prowse,6,30,-,-,115000,5980000
+1048,Defensive Midfield,G. Rodríguez,3,31,-,-,75000,3900000
+1049,Central Midfield,A. Irving,6,25,-,-,15000,780000
+1050,Defensive Midfield,F. Potts,4,22,-,-,15000,780000
+1051,Right Winger,J. Bowen,10,28,3,2,150000,7800000
+1052,Left Winger,C. Summerville,7,23,-,2,45000,2340000
+1053,Right Winger,L. Guilherme,3,19,-,-,30000,1560000
+1054,Centre-Forward,N. Füllkrug,7,32,-,-,90000,4680000
+1055,Centre-Forward,C. Wilson,7,33,1,-,50000,2600000
+1056,Centre-Forward,C. Marshall,2,20,-,-,15000,780000
+1059,Centre-Back,Toti,7,26,-,-,80000,4160000
+1060,Centre-Back,L. Krejci,7,26,1,1,45000,2340000
+1061,Centre-Back,E. Agbadou,9,28,-,-,85000,4420000
+1062,Left-Back,D. Wolfe,5,23,-,1,30000,1560000
+1063,Right-Back,J. Tchatchoua,9,24,-,1,65000,3380000
+1064,Centre-Back,S. Bueno,8,26,1,1,40000,2080000
+1065,Centre-Back,Y. Mosquera,4,24,-,-,30000,1560000
+1066,Left-Back,H. Bueno,11,23,-,-,25000,1300000
+1067,Right-Back,K. Hoever,4,23,-,-,40000,2080000
+1068,Right-Back,M. Doherty,6,33,-,-,50000,2600000
+1069,Central Midfield,J. Gomes,11,24,-,1,105000,5460000
+1070,Defensive Midfield,André,11,24,-,-,60000,3120000
+1071,Central Midfield,J. Bellegarde,10,27,-,-,75000,3900000
+1072,Attacking Midfield,Fer López,6,21,-,1,25000,1300000
+1073,Central Midfield,M. Munetsi,10,29,2,1,70000,3640000
+1074,Left Midfield,R. Gomes,8,22,2,-,25000,1300000
+1075,Centre-Forward,J. Larsen,9,25,3,-,95000,4940000
+1076,Centre-Forward,T. Arokodare,7,24,1,-,75000,3900000
+1077,Right Winger,J. Arias,11,28,-,-,65000,3380000
+1078,Centre-Forward,H. Hwang,9,29,1,-,70000,3640000
+1079,Centre-Forward,S. Kalajdzic,2,28,-,-,20000,1040000
