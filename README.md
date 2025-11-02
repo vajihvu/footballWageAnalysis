@@ -1,5 +1,7 @@
 # footballWageAnalysis
 
+An exploratory data analysis project examining the relationship between football players’ wages and performance metrics using Python, Pandas and Seaborn.
+
 ## Project Overview
 
   This project explores the relationship between football player wages and on-field performance metrics such as goals, assists and matches played.
