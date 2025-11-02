@@ -8,10 +8,10 @@ The project focuses on data cleaning, exploratory data analysis (EDA), and data 
 
 # Objectives
 
-~Clean and preprocess football player datasets for analysis.
-~Perform exploratory data analysis (EDA) to uncover trends and insights.
-~Visualize wage-performance relationships across player positions.
-~Identify patterns of inefficiency (for example high wages but low output).
+Clean and preprocess football player datasets for analysis.
+Perform exploratory data analysis (EDA) to uncover trends and insights.
+Visualize wage-performance relationships across player positions.
+Identify patterns of inefficiency (for example high wages but low output).
 
 # Dataset
 
