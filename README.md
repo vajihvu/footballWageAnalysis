@@ -1,6 +1,6 @@
 # footballWageAnalysis
 
-# Project Overview
+## Project Overview
 
   This project explores the relationship between football player wages and on-field performance metrics such as goals, assists and matches played.
   
@@ -8,7 +8,7 @@
   
   The project focuses on data cleaning, exploratory data analysis (EDA), and data visualization using Python libraries such as Pandas, Matplotlib and Seaborn.
 
-# Objectives
+## Objectives
 
   Clean and preprocess football player datasets for analysis.
   
@@ -18,13 +18,13 @@
   
   Identify patterns of inefficiency (for example high wages but low output).
 
-# Dataset
+## Dataset
 
   Scraped data from websites such as transfermarkt for statistics and capology for estimated wages.
   
   Dataset consists of - Player_Name, Position, Age, Matches_Played, Goals, Assists, Weekly_Wages and Annual_Wages.
 
-# Tools and Technologies
+## Tools and Technologies
 
   Programming Language: Python
   
@@ -32,7 +32,7 @@
   
   Environment: VS Code
 
-# Analysis Performed
+## Analysis Performed
 
   Data Cleaning: Handling missing values, duplicates and invalid wage entries.
   
@@ -40,13 +40,13 @@
   
   Correlation Analysis: Exploring relationships between wages, goals, assists and age.
 
-# Visualizations:
+## Visualizations:
 
   Scatter plots showing wage vs goals and assists.
   
   Heatmaps of feature correlations.
 
-# Key Insights
+## Key Insights
 
   Positive correlation found between goals scored and weekly wages.
   
@@ -54,7 +54,7 @@
   
   Younger players tend to have higher goals-per-match ratios but lower wages.
 
-# Future Enhancements
+## Future Enhancements
 
   Add a machine learning model to predict player market value based on goals, assists and performance ratings.
 
